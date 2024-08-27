@@ -1,0 +1,8 @@
+name: VillagerModifier
+version: '1.0-SNAPSHOT'
+main: io.github.bilektugrul.villagerModifier.VillagerModifier
+api-version: '1.20'
+authors: [ bilektugrul ]
+commands:
+  villagermodifier:
+    aliases: [vm]
